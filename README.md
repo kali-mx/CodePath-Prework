@@ -1,14 +1,30 @@
 # CodePath Prework Project
 
 
-- Improve the UI by using different fonts/colors/background.
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Implement a way to change the color of the text as well.
+# Prework - *Chameleon*
 
+Submitted by: **Max Ahartz**
 
-IOS App Walkthrough:
+**Chameleon** is an app that allows you to change your screen background color and even font colors with just a tap of a button!
+
+Time spent: **5** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] Users will see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
 
 ![](https://i.imgur.com/6TO2hYB.gif)
+
+## App Brainstorming (Step 4)
+
+## Notes
+
+I found the tutorial very straighforward. I enjoyed using the Xcode app. The only challenge I enountered was setting up the gif.  I found out along the way, Github blocks pushes of 100MB or more, so you must be mindful of keeping your gif walk-throughs under this or they will not display.
 
  
 ## 3 of my favorite applications:
@@ -36,5 +52,21 @@ I would like to create a simple and intuitive workout on the fly planner/journal
 - record starting bodyweight and prompt user weekly for weight updates and track progress
 - track progress of exercises, reps and weight increases/decreases via colorful easy to read charts.
 
+
+## License
+
+    Copyright 2024 Max Ahartz
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
   
