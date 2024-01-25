@@ -1,33 +1,40 @@
-# CodePath-Prework
-CodePath Prework Project
+# CodePath Prework Project
 
-- Improve the UI by using different fonts/colors/background
+
+- Improve the UI by using different fonts/colors/background.
 - Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
+- Implement a way to change the color of the text as well.
 
 
+IOS App Walkthrough:
+
+![](https://i.imgur.com/6TO2hYB.gif)
+
+ 
+## 3 of my favorite applications:
+
+1. Strava
+- colorful, graphical display
+- feature rich
+- workout analysis and tracking
+
+2. 10-Min Plank
+- nice graphical demo poses to show proper workout form
+- intuitive functionality
+- simple and easy to use
+
+3. Garmin Connect
+- big, colorful display
+- lots of tracking features
+- easy and quick  
+
+## Project Idea: Workout Tracker
+I would like to create a simple and intuitive workout on the fly planner/journal with a menu of common exercises. It must be quick and easy to setup and use. Here are some features I would like to make:
+
+- graphical menu of common gym exercises to quickly select via checkmark to design/log a workout on the go.
+- record workouts, reps, sets, weights, date, time and workout duration.
+- record starting bodyweight and prompt user weekly for weight updates and track progress
+- track progress of exercises, reps and weight increases/decreases via colorful easy to read charts.
 
 
-
-
-
-
-
-
-
-
- Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-
-    Example App: Instagram
-        Changing the background color of the messages screen
-        Deleting old messages
-
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
-
-Workout Tracker
-
-- intuitive workout on the fly planner/journal with a menu of common exercises
-- record reps and sets, weight used
-- track changes week to week to chart progression
-- record body weight start, check in weekly, chart progress
   
