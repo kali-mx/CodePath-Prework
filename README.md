@@ -3,7 +3,7 @@
 
 Submitted by: **Max Ahartz**
 
-**Chameleon** is an app that allows you to change your screen background color and even font colors with just a tap of a button!
+**Chameleon** is an app that allows you to change your screen background color and even font colors with just the tap of a button!
 
 Time spent: **5** hours spent in total
 
@@ -16,12 +16,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://i.imgur.com/6TO2hYB.gif)
-
+![](https://i.imgur.com/hoH7X0p.gif)
 
 ## Notes
 
-I found the tutorial very straighforward. I enjoyed using the Xcode app. The only challenge I enountered was setting up the GIF.  I found out along the way, Github blocks pushes of 100MB or more, so you must be mindful of keeping your GIF walk-throughs under this or they will not display.
+I found the tutorial very straightforward. I enjoyed using the Xcode app. The only challenge I enountered was setting up the GIF.  I found out along the way, Github blocks pushes of 100MB or more, so you must be mindful of keeping your GIF walk-throughs under this or they will not display.
 
 ## App Brainstorming
  
